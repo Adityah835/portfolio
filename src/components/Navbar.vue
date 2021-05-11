@@ -9,8 +9,8 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
-            <b-nav-item to='/Resume'>Resume</b-nav-item>
-            <b-nav-item to='/Projects'>Projects</b-nav-item>
+              <b-nav-item to='/Resume'><span class='left-margin'/>Resume</b-nav-item>
+              <b-nav-item to='/Projects'><span class='left-margin'/>Projects</b-nav-item>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>

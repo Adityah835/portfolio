@@ -1,3 +1,5 @@
 <template>
-    <p> Home </p>
+    <div class = "body">
+        <p> Home </p>
+    </div>
 </template>
