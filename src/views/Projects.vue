@@ -1,3 +1,9 @@
 <template>
-    <p> Projects </p>
+    <section>
+        <p> Projects </p>
+    </section>
 </template>
+
+<style scoped>
+    @import '../assets/css/global.css';
+</style>
