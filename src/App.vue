@@ -25,5 +25,6 @@ export default {
     background-color: rgb(66, 66, 66);
     color: #fff; 
     min-height: 100%;
+    font-family:inherit;
   }
 </style>

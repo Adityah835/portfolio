@@ -1,6 +1,6 @@
 <template>
 <div>
-  <b-navbar toggleable="lg" type="dark" variant="success">
+  <b-navbar toggleable="lg" type="dark" variant="success" fixed = "top">
     <div class = "left-margin">
         <b-navbar-brand to='/'>Aditya Harshvardhan</b-navbar-brand>
     </div>
@@ -18,7 +18,8 @@
 </template>
 
 <style scoped>
+    @import '../assets/css/global.css';
     .left-margin{
-        margin-left: 3%;
+        margin-left: 10%;
     }
 </style>

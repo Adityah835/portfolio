@@ -1,5 +1,37 @@
-p,img, h1, h2, h3, h4, h5, h6 {
-    animation: fadeInAnimation ease 3s;
+.col{
+    margin-top:1%;
+    margin-left:10%;
+    width: 80%;  
+}
+.col2{
+    margin-top:70px;
+    margin-left:10%;
+    width: 80%;  
+}
+.center{
+    margin-top: 2%;
+    margin-left:10%;
+    width: 80%;
+
+}
+
+.image{
+    width: 38%;
+    height: auto;
+    margin-top: 2%;
+    margin-left: 25%;
+}
+
+body,
+p,
+img, 
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+    animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
@@ -11,4 +43,26 @@ p,img, h1, h2, h3, h4, h5, h6 {
     100% {
       opacity: 1;
     }
+}
+
+@keyframes keyboard-type{
+    from {
+        width: 0
+    }
+}
+
+@keyframes type-cursor{
+    50%{
+        border-color: transparent
+    }
+}
+
+.typing-effect{
+    width: 12ch;
+    animation: keyboard-type 2s steps(12), type-cursor .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;   
 }

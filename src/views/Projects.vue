@@ -1,6 +1,8 @@
 <template>
     <section>
-        <p> Projects </p>
+        <div class = "col2">
+            <p> Projects </p>
+        </div>
     </section>
 </template>
 

@@ -1,6 +1,8 @@
 <template>
     <section>
-        <p> Resume </p>
+        <div class = "col2">
+            <p> Resume </p>
+        </div>
     </section>
 </template>
 
