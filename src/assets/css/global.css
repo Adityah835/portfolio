@@ -3,7 +3,7 @@
     margin-left:10%;
     width: 80%;  
 }
-.col2{
+.top-margin{
     margin-top:70px;
     margin-left:10%;
     width: 80%;  
@@ -16,10 +16,16 @@
 }
 
 .image{
-    width: 38%;
     height: auto;
-    margin-top: 2%;
-    margin-left: 25%;
+    width: 100%;
+    border-radius: 50%;
+    padding: 2%;
+}
+.small-image{
+    height: auto;
+    width: 10%;
+    padding: 2%;
+    border-radius: 50%;
 }
 
 body,

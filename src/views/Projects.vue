@@ -1,6 +1,6 @@
 <template>
     <section>
-        <div class = "col2">
+        <div class = "top-margin">
             <p> Projects </p>
         </div>
     </section>
