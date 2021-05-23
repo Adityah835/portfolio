@@ -77,6 +77,14 @@ h6 {
         margin-top: 2%;
     }
 }
+@keyframes slideLeft {
+    from{
+        margin-left: 10%;
+    }
+    to{
+        margin-left: 6%;
+    }
+}
 @keyframes keyboard-type{
     from {
         width: 0
