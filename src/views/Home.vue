@@ -24,9 +24,6 @@
                         While most my experience has been in Software Development, I also have some exposure to Python programming and 
                         Deep Learning. Currently pursuing my thesis on improving the existing Deep Learning Neural Network Architechture.
                     </p>
-                    <a href= "../assets/files/Resume Aditya Harshvardhan - June 2021.pdf" download="Resume Aditya Harshvardhan - June 2021.pdf" target="_blank">
-                        <button type="button" class="btn btn-success"> Download Resume </button>
-                    </a>
                     <a href= "https://www.linkedin.com/in/aditya-harshvardhan-a5163a157/">
                         <img src="../assets/images/linkedin.jpg" class="small-image"/>
                     </a>
@@ -42,9 +39,9 @@
 <style scoped>
     @import '../assets/css/global.css';
     p, button {
-        animation: fadeInAnimation ease 8s;
+        animation: fadeInAnimation ease 6s;
     }
     h5, img{
-        animation: fadeInAnimation ease 6s;
+        animation: fadeInAnimation ease 4s;
     }
 </style>

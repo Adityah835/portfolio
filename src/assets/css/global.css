@@ -8,6 +8,20 @@
     margin-left:10%;
     width: 80%;  
 }
+.top-margin-2{
+    margin-top:70px;
+    margin-left: 10%;
+    width: 80%;  
+}
+.margin{
+    padding-left: 10%;
+    padding-bottom: 1%;
+    white-space: nowrap !important;
+}
+.left-margin{
+    padding-left: 10%;
+    white-space: nowrap;
+}
 .center{
     margin-top: 2%;
     margin-left:10%;
@@ -50,7 +64,14 @@ h6 {
       opacity: 1;
     }
 }
-
+@keyframes slideUp {
+    from{
+        margin-top: 10%;
+    }
+    to{
+        margin-top: 2%;
+    }
+}
 @keyframes keyboard-type{
     from {
         width: 0

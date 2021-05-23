@@ -1,7 +1,7 @@
 <template>
     <section>
         <div class = "top-margin">
-            <p> Resume </p>
+            <p> About This Page </p>
         </div>
     </section>
 </template>

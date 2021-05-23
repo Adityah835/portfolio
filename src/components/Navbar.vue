@@ -9,8 +9,8 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
-              <b-nav-item to='/Resume'><span class='left-margin'/>Resume</b-nav-item>
-              <b-nav-item to='/Projects'><span class='left-margin'/>Projects</b-nav-item>
+              <b-nav-item to='/Projects' class="margin">Projects</b-nav-item>
+              <b-nav-item to='/About-This-Page' class="margin">About This Page</b-nav-item>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
@@ -19,7 +19,4 @@
 
 <style scoped>
     @import '../assets/css/global.css';
-    .left-margin{
-        margin-left: 10%;
-    }
 </style>
