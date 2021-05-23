@@ -35,6 +35,11 @@
     border-radius: 50%;
     padding: 2%;
 }
+.image-2{
+    height: auto;
+    width: 20%;
+    padding: 3%;
+}
 .small-image{
     height: auto;
     width: 10%;

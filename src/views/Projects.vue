@@ -3,37 +3,41 @@
         <div class = "top-margin-2">
             <div class = "container">
                 <div class = "row">
+                    <h5> My Top Projects </h5>
+                </div>
+                <div class = "row">
                     <div class="card animation1" style="width: 18rem;">
-                        <img class="card-img-top" src = '../assets/images/linkedin.jpg' alt="Card image cap"/>
+                        <img class="card-img-top" src = '../assets/images/car.png' alt="Card image cap"/>
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">Jackrabbit Rent-A-Car</h5>
                             <p class="card-text">
-                                Some quick example text to build 
-                                on the card title and make up the bulk of the card's content.
+                                A Vue.js + Google Firebase project to simulate a car rental agency's website. 
+                                This project's main components include acccount creation, car reservation, and 
+                                inventory management.
                             </p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <a href="https://github.com/Adityah835/jackrabbit-rent-a-car" class="btn btn-success">Go to Github Repository</a>
                         </div>
                     </div>
                     <div class="card animation2" style="width: 18rem;">
-                        <img class="card-img-top" src = '../assets/images/linkedin.jpg' alt="Card image cap"/>
+                        <img class="card-img-top" src = '../assets/images/java.png' alt="Card image cap"/>
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">Java Compiler</h5>
                             <p class="card-text">
-                                Some quick example text to build 
-                                on the card title and make up the bulk of the card's content.
+                                This .NET Framework (C#) Console Project is a mini compiler that simulates 
+                                basic Java statements and give output like a real compiler.
                             </p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <a href="https://github.com/Adityah835/JavaCompiler" class="btn btn-success">Go to Github Repository</a>
                         </div>
                     </div>
                     <div class="card animation3" style="width: 18rem;">
-                        <img class="card-img-top" src = '../assets/images/linkedin.jpg' alt="Card image cap"/>
+                        <img class="image card-img-top" src = '../assets/images/portfolio.jpg' alt="Card image cap"/>
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">Portfolio</h5>
                             <p class="card-text">
-                                Some quick example text to build 
-                                on the card title and make up the bulk of the card's content.
+                                Yes, this portal itself is one of my top projects. This project is a Vue.js + Bootstrap project 
+                                to showcase my UI development skills till date.
                             </p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <a href="https://github.com/Adityah835/portfolio" class="btn btn-success">Go to Github Repository</a>
                         </div>
                     </div>
                 </div>
