@@ -53,7 +53,8 @@
         margin-top:2%;
         margin-left: 6%;
         padding: 2%;
-        background-color: rgb(116, 116, 116);
+        background-color: rgb(66, 66, 66);
+        border: 0;
     }
     .animation1{
         animation-name: slideUp;
