@@ -14,7 +14,7 @@
     width: 80%;  
 }
 .margin{
-    padding-left: 8%;
+    padding-left: 4%;
     padding-bottom: 1%;
     white-space: nowrap !important;
 }
@@ -60,6 +60,10 @@ button{
     animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
+}
+
+div{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
   
 @keyframes fadeInAnimation {
