@@ -39,11 +39,8 @@
                                         the Task repository containing previously implemented complex display module diagnosis). 
                                     </li>
                                     <li>
-                                        Fixed bugs on the C# backend for Daktronics manufacturing web application using MS Visual Studio 2017,
-                                        Git Source Control and Azure DevOps.
-                                    </li>
-                                    <li>
-                                        Fixed minor UI bugs on the Angular Project.
+                                        Fixed backend bugs on the C# and UI bugs on Angular portion of the project for Daktronics
+                                        manufacturing web application using MS Visual Studio 2017, Git Source Control and Azure DevOps.
                                     </li>
                                     <li>
                                         Fixed a production issue in the Daktronics Manufacturing C# Task Repository relating to manual bar code 
@@ -214,7 +211,7 @@
                                         Amazon Web Services (General Idea + Hands On with EC2 and S3 services)
                                     </li>
                                     <li>
-                                        Microsoft Azure (General Idea)
+                                        Microsoft Azure <br> (General Idea)
                                     </li>
                                     <li>
                                         Google Cloud Platform (General Idea + Hands On with Google Cloud FireStore)
@@ -283,7 +280,7 @@
 <style scoped>
     @import '../assets/css/global.css';
     li{
-        padding: 2%;
+        padding: 3%;
     }
     .card{
         margin-top:2%;

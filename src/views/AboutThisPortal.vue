@@ -9,7 +9,7 @@
                     <p> This portal was made possible by the following: </p>
                 </div>
                 <div class = "row">
-                    <div class="card animation1" style="width: 18rem;">
+                    <div class="card animation1" style="width: 20rem;">
                         <img class="card-img-top" src = '../assets/images/vuejs.png' alt="Card image cap"/>
                         <div class="card-body">
                             <h5 class="card-title">Vue.js</h5>
@@ -18,7 +18,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card animation1" style="width: 18rem;">
+                    <div class="card animation1" style="width: 20rem;">
                         <img class="card-img-top" src = '../assets/images/html.png' alt="Card image cap"/>
                         <div class="card-body">
                             <h5 class="card-title">HTML</h5>
@@ -27,7 +27,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card animation1" style="width: 18rem;">
+                    <div class="card animation1" style="width: 20rem;">
                         <img class="card-img-top" src = '../assets/images/css.png' alt="Card image cap"/>
                         <div class="card-body">
                             <h5 class="card-title">CSS</h5>
@@ -36,7 +36,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card animation1" style="width: 18rem;">
+                    <div class="card animation1" style="width: 20rem;">
                         <img class="card-img-top" src = '../assets/images/js.png' alt="Card image cap"/>
                         <div class="card-body">
                             <h5 class="card-title">JavaScript</h5>
@@ -45,7 +45,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card animation1" style="width: 18rem;">
+                    <div class="card animation1" style="width: 20rem;">
                         <img class="card-img-top" src = '../assets/images/bootstrap.png' alt="Card image cap"/>
                         <div class="card-body">
                             <h5 class="card-title">Bootstrap</h5>
