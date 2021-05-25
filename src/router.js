@@ -11,9 +11,14 @@ const routes = [
         component: Home
     },
     {
+        path: '/Career-Profile',
+        name: 'Career-Profile',
+        component: () => import(/*webpackChunkName: "Career-Profile"*/ './views/CareerProfile.vue')
+    },
+    {
         path: '/Projects',
         name: 'Projects',
-        component: () => import (/*webpackChunkName: "projects"*/ './views/Projects.vue')
+        component: () => import (/*webpackChunkName: "Projects"*/ './views/Projects.vue')
     },
     {
         path: '/About-This-Portal',

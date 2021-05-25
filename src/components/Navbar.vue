@@ -9,6 +9,7 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
+              <b-nav-item to='/Career-Profile' class="margin">Career Profile</b-nav-item>
               <b-nav-item to='/Projects' class="margin">Projects</b-nav-item>
               <b-nav-item to='/About-This-Portal' class="margin">About This Portal</b-nav-item>
       </b-navbar-nav>
