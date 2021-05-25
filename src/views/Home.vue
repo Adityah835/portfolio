@@ -11,9 +11,9 @@
                 </div>
                 <div class = "col-sm-9 col-md-6">
                     <h5> My name is Aditya and I am a Software Developer. </h5>
-                    <p> I am currently located in Brookings, South Dakota pursuing
-                        my Masters Degree in Computer Science (Thesis Pending) from
-                        South Dakota State University. 
+                    <p> I am located in Brookings, South Dakota and I have been in the USA for 5 years. Currently, I am pursuing my 
+                        Masters Degree in Computer Science (Thesis Pending) from South Dakota State University and had already 
+                        obtained Bachelors Degree in Computer Science from the same university.
                     </p>
                     <p>
                         From the beginning of my professional career, I have been involved in several aspects of Software Development
