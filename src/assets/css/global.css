@@ -84,7 +84,7 @@ div{
 }
 @keyframes slideLeft {
     from{
-        margin-left: 10%;
+        margin-left: 8%;
     }
     to{
         margin-left: 6%;
@@ -92,7 +92,7 @@ div{
 }
 @keyframes slideRight {
     from{
-        margin-left: 2%;
+        margin-left: 4%;
     }
     to{
         margin-left: 6%;
