@@ -111,9 +111,6 @@
                                     <li>
                                         Course work done with Thesis pending
                                     </li>
-                                    <li>
-                                        In Dean's List since the beginning of the program
-                                    </li>
                                 </ul>
                             </p>
 
@@ -122,7 +119,7 @@
                     <div class="card animation2" style="width: 20rem;">
                         <img class="card-img-top" src = '../assets/images/sdstate.jpg' alt="Card image cap"/>
                         <div class="card-body">
-                            <h5 class="card-title"> MS in Computer Science (Aug 2016 - May 2020)</h5>
+                            <h5 class="card-title"> BS in Computer Science (Aug 2016 - May 2020)</h5>
                             <p class="card-text">
                                 <ul> 
                                     <li>
